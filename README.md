@@ -6,9 +6,13 @@ A central goal of Qiskit is to build a software stack that makes it easy for any
 
 You can use Qiskit to easily design experiments and run them on simulators and real quantum computers.
 
-#Qiskit consists of four foundational elements:
+# Qiskit consists of four foundational elements:
+
 1.Qiskit Terra: Composing quantum programs at the level of circuits and pulses with the code foundation.
+
 2.Qiskit Aer: Accelerating development via simulators and noise models
+
 3.Qiskit Ignis: Addressing noise and errors
+
 4.Qiskit Aqua: Building algorithms and applications
 
